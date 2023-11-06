@@ -17,6 +17,10 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
 ```
 ## Program:
 ```
+DEVELOPED BY : Santhoshkumar B
+REGISTER NO : 212221040134
+```
+```
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
